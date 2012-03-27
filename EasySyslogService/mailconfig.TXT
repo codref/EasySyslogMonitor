@@ -1,0 +1,10 @@
+  <system.net>
+    <mailSettings>
+      <smtp from="easysyslog@example.com">
+        <network host="" password="" userName="" port=""/>
+      </smtp>
+    </mailSettings>
+  </system.net>
+  
+  <appSettings>
+    <add key="requiresSSL" value="false"/>
